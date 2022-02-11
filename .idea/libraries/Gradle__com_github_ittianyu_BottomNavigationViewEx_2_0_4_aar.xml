@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ittianyu:BottomNavigationViewEx:2.0.4@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Holala v1.3.7/Holala/caches/transforms-2/files-2.1/08c30a25b06b025893aaaae1e26569dc/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="file://$PROJECT_DIR$/../Holala v1.3.7/Holala/caches/transforms-2/files-2.1/2259336a8264f6e85db695b6cbee64f2/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/861d6fe1130a3a1db0a146e4167e312e/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/861d6fe1130a3a1db0a146e4167e312e/jetified-BottomNavigationViewEx-2.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/861d6fe1130a3a1db0a146e4167e312e/jetified-BottomNavigationViewEx-2.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.4/9d06b084a4c1c21e4a8a2c20868b4f2049544c9f/BottomNavigationViewEx-2.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.4/4a625175c2beaed42ef779aef650a18a615c129/BottomNavigationViewEx-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

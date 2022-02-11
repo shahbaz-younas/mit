@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.agorabuilder:native-full-sdk:3.4.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/15cfeb52f6873df34533753dcb8d662c/jetified-native-full-sdk-3.4.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/15cfeb52f6873df34533753dcb8d662c/jetified-native-full-sdk-3.4.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/15cfeb52f6873df34533753dcb8d662c/jetified-native-full-sdk-3.4.1/jars/libs/agora-rtc-sdk.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/15cfeb52f6873df34533753dcb8d662c/jetified-native-full-sdk-3.4.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.agorabuilder/native-full-sdk/3.4.1/97314cf9738e7aa33b96d95718201dadf8fa99c9/native-full-sdk-3.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.agorabuilder/native-full-sdk/3.4.1/5f40c91d4582e911cd36067b28d71c62f9b5dd98/native-full-sdk-3.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120429839418",
+    "firebase_url": "https://fider-video-default-rtdb.firebaseio.com",
+    "project_id": "fider-video",
+    "storage_bucket": "fider-video.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120429839418:android:097d4c9e0ab869688a2103",
+        "android_client_info": {
+          "package_name": "com.videoCall.Mito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120429839418-u1k0jfnfrhemjir679icv8a7lc5bj4es.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.videoCall.Mito",
+            "certificate_hash": "19e607259b621f1b6ca47c33fc548146f55c4646"
+          }
+        },
+        {
+          "client_id": "120429839418-0hto0biifdp7tfa2jm5arodabkveespq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJbUlfooJtrR96GuIsR6ljyQaMQU2lSg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120429839418-0hto0biifdp7tfa2jm5arodabkveespq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
